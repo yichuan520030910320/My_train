@@ -1,2 +1,3 @@
 # ticket2333
-666
+:train2:
+题面：https://github.com/IvyCharon/TicketSystem-2021
